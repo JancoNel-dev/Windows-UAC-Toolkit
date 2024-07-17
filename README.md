@@ -9,6 +9,8 @@ Windows
 
 ## Usage
 
+Method 1
+
 1. **Clone the Repository:**
 
    ```bash
