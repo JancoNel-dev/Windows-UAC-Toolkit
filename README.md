@@ -1,4 +1,4 @@
-# Windows UACToolkit
+# Windows UAC Toolkit
 
 This script grants administrative privileges to a your Windows user or a process of your choice
 
@@ -16,7 +16,7 @@ This script grants administrative privileges to a your Windows user or a process
    Ensure you have Python installed on your system.
 
    ```bash
-   python main.py
+   start.bat
    ```
 
 3. **Follow the Prompts:**
