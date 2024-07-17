@@ -2,6 +2,11 @@
 
 This script grants administrative privileges to a your Windows user or a process of your choice
 
+## Requirements
+
+Python 3.X
+Windows
+
 ## Usage
 
 1. **Clone the Repository:**
