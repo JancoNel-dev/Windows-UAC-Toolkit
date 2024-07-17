@@ -9,6 +9,10 @@ Windows
 
 ## Usage
 
+### MEthod 1
+
+Grab the latest executeable from the release tab
+
 ### Method 2
 
 Self compiling
