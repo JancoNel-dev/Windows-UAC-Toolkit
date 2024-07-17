@@ -2,6 +2,9 @@ import subprocess
 import getpass
 import ctypes
 import os
+import sys
+
+from typing import Tuple
 
 os.system('cls')
 
@@ -141,3 +144,5 @@ def grant_admin_user():
 
     except subprocess.CalledProcessError as e:
         print(f"Error granting admin rights: {e.stderr}")
+
+start()
