@@ -9,7 +9,9 @@ Windows
 
 ## Usage
 
-Method 1
+### Method 2
+
+Self compiling
 
 1. **Clone the Repository:**
 
